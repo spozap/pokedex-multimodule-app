@@ -21,5 +21,8 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "pokedex-multimodule-app"
+
+enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 include(":app")
 include(":features:pokemon_list")
+include(":core:design-system")

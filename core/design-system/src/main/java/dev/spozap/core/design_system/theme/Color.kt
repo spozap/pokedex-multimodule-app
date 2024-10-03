@@ -1,4 +1,4 @@
-package dev.spozap.pokedex_multimodule_app.ui.theme
+package dev.spozap.core.design_system.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,6 +1,6 @@
 plugins {
+    id("dev.spozap.feature")
     id("dev.spozap.library.compose")
-    id("dev.spozap.library")
 }
 
 android {

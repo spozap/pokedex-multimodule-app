@@ -45,5 +45,5 @@ android-library = { id = "com.android.library", version.ref = "agp" }
 compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
 
 ## Custom defined plugins
-#pokedex-library-compose = { id = "dev.spozap.library.compose" }
-#pokedex-library = { id = "dev.spozap.library" }
+pokedex-library-compose = { id = "dev.spozap.library.compose" }
+pokedex-library = { id = "dev.spozap.library" }
