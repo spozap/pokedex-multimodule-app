@@ -1,6 +1,7 @@
 plugins {
     id("dev.spozap.application")
     id("dev.spozap.application.compose")
+    id("dev.spozap.hilt")
 }
 
 android {

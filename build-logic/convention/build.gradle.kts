@@ -49,6 +49,10 @@ gradlePlugin {
             implementationClass = "dev.spozap.convention.AndroidLibraryConventionPlugin"
         }
 
+        register("androidHilt") {
+            id = "dev.spozap.hilt"
+            implementationClass = "dev.spozap.convention.AndroidHiltConventionPlugin"
+        }
 
     }
 
